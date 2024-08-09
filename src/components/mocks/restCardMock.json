@@ -1,0 +1,74 @@
+{
+  "info": {
+    "id": "286518",
+    "name": "UBQ by Barbeque Nation",
+    "cloudinaryImageId": "ru7j7x8qqtvuzfuw7cdh",
+    "locality": "Janpath",
+    "areaName": "Janpath",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+      "North Indian",
+      "Barbecue",
+      "Biryani",
+      "Kebabs",
+      "Mughlai",
+      "Desserts"
+    ],
+    "avgRating": 4.1,
+    "parentId": "10804",
+    "avgRatingString": "4.1",
+    "totalRatingsString": "1K+",
+    "sla": {
+      "deliveryTime": 34,
+      "lastMileTravel": 5,
+      "serviceability": "SERVICEABLE",
+      "slaString": "30-35 mins",
+      "lastMileTravelString": "5.0 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-06-17 16:30:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "50% OFF",
+      "subHeader": "UPTO ₹100"
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {
+    "context": "seo-data-49566dfa-f55d-4824-85e6-4ec513f3007b"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/ubq-by-barbeque-nation-janpath-delhi-286518",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

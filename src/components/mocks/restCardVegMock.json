@@ -1,0 +1,84 @@
+{
+  "info": {
+    "id": "753312",
+    "name": "The Belgian Waffle Co.",
+    "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
+    "locality": "REGAL BUILDING EAST",
+    "areaName": "CONNAUGHT CIRCUS",
+    "costForTwo": "₹200 for two",
+    "cuisines": ["Waffle", "Desserts", "Ice Cream"],
+    "avgRating": 4.6,
+    "veg": true,
+    "parentId": "2233",
+    "avgRatingString": "4.6",
+    "totalRatingsString": "100+",
+    "sla": {
+      "deliveryTime": 39,
+      "lastMileTravel": 4.6,
+      "serviceability": "SERVICEABLE",
+      "slaString": "35-40 mins",
+      "lastMileTravelString": "4.6 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-06-18 01:00:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "v1695133679/badges/Pure_Veg111.png",
+          "description": "pureveg"
+        }
+      ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "description": "pureveg",
+                "imageId": "v1695133679/badges/Pure_Veg111.png"
+              }
+            }
+          ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "20% OFF",
+      "subHeader": "UPTO ₹50"
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {
+    "context": "seo-data-c76460a7-8703-4049-927e-51592f8b69c4"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/the-belgian-waffle-co-regal-building-east-connaught-circus-delhi-753312",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

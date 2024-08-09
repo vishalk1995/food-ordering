@@ -1,0 +1,1517 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Om di Hatti(Kamla Nagar)",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "44972",
+              "name": "Om di Hatti(Kamla Nagar)",
+              "city": "Delhi",
+              "slugs": {
+                "restaurant": "om-di-hatti-main-gt-karnal-road-gtb-nagar",
+                "city": "delhi"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "ypoamjz9lkaxlsf6075j",
+              "locality": "Shakti Nagar",
+              "areaName": "Kamla Nagar",
+              "costForTwo": "15000",
+              "costForTwoMessage": "₹150 for two",
+              "cuisines": ["Fast Food", "Snacks"],
+              "avgRating": 4.2,
+              "veg": true,
+              "feeDetails": {
+                "restaurantId": "44972",
+                "fees": [
+                  {
+                    "name": "TYPE_DISTANCE",
+                    "fee": 12200
+                  },
+                  {
+                    "name": "TYPE_TIME"
+                  }
+                ],
+                "totalFee": 12200,
+                "title": "Delivery Charge",
+                "amount": "12200",
+                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                "message": "<b>13.0 kms</b> | ₹122 Delivery fee will apply"
+              },
+              "parentId": "22243",
+              "avgRatingString": "4.2",
+              "totalRatingsString": "10K+ ratings",
+              "sla": {
+                "restaurantId": "44972",
+                "deliveryTime": 58,
+                "minDeliveryTime": 55,
+                "maxDeliveryTime": 60,
+                "lastMileTravel": 13,
+                "serviceability": "NON_SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 154,
+                "slaString": "55-60 MINS",
+                "lastMileTravelString": "13.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-06-20 20:30:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "20% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "20% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "20% off up to ₹50 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹50 off | Above ₹600",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "om-di-hatti-main-gt-karnal-road-gtb-nagar",
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "14 A  Shakti Nagar Chowk  Main GT Karnal Road  Kamla Nagar  New Delhi"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Fast Food,Snacks"
+                }
+              ],
+              "totalRatings": 10000,
+              "aggregatedDiscountInfoV2": {
+                "header": "20% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "20% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "20% off up to ₹50 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹50 off | Above ₹600",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 125,
+                  "maxValue": 179,
+                  "priority": 1,
+                  "couponCode": "TRYNEW",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 20
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save upto ₹50 | Code TRYNEW",
+                  "unlockedMessage": "TRYNEW Coupon Unlocked! Use it to save upto ₹50",
+                  "logoCtx": {}
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/44972"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                }
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "28.68138998,77.19863515",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 3,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹50",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["f16a2f3c-9a67-4634-9313-949ab3328882"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹179",
+                      "offerType": "offers",
+                      "restId": "44972",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹50 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/5/31/f71f1df1-bfba-4f4c-88a4-82cccf73fe9e_ici.jpg",
+                      "offerIds": ["55c218f5-5adb-4051-8bcb-96410b716ba6"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹600",
+                      "offerType": "offers",
+                      "restId": "44972",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/5/31/f71f1df1-bfba-4f4c-88a4-82cccf73fe9e_ici.jpg",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "15% OFF UPTO ₹100",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/5/651e359e-ba0a-4e5c-aeb8-2189ea67926f_Axis.png",
+                      "offerIds": ["b26d2d21-1f6c-45a9-927a-1ea38d9360d3"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE AXISRUPAY",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "44972",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/5/651e359e-ba0a-4e5c-aeb8-2189ea67926f_Axis.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909492",
+                              "name": "Chole Bhature",
+                              "category": "Quick Bites",
+                              "description": "A spicy and mouth-watering punjabi delicacy deep fried all purpose flour puris served with curried chickpeas",
+                              "imageId": "jm5nzdqczrqwrywz8h7r",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "13167683",
+                                  "groupName": "Addon Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "14516802",
+                                      "name": "Gulab Jamun (1 Pc)",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "25300 ratings",
+                                  "ratingCountV2": "25300"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909493",
+                              "name": "Chole Samosa (2 Pcs)",
+                              "category": "Quick Bites",
+                              "imageId": "fvtoa4dj57hybob7wuvi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "104632166",
+                                  "groupName": "Choice of Beverages",
+                                  "choices": [
+                                    {
+                                      "id": "14516801",
+                                      "name": "Sweet Lassi",
+                                      "price": 7000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "13167705",
+                                  "groupName": "Addon Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "14516802",
+                                      "name": "Gulab Jamun (1 Pc)",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "4040 ratings",
+                                  "ratingCountV2": "4040"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909495",
+                              "name": "Aloo Samosa (1 Pc)",
+                              "category": "Quick Bites",
+                              "description": "Small sized samosas with spicy dal filling served with green mint sauce.",
+                              "imageId": "yrodiwczl3siswh1ywkv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "104632140",
+                                  "groupName": "Choice of Beverages",
+                                  "choices": [
+                                    {
+                                      "id": "14516801",
+                                      "name": "Sweet Lassi",
+                                      "price": 7000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "4284 ratings",
+                                  "ratingCountV2": "4284"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909498",
+                              "name": "Chole Chawal",
+                              "category": "Main Course",
+                              "description": "White channa cooked slowly with desi spices served with rice",
+                              "imageId": "hfad9l5so8ruojefocfh",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "13167727",
+                                  "groupName": "Addon Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "14516802",
+                                      "name": "Gulab Jamun (1 Pc)",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "1703 ratings",
+                                  "ratingCountV2": "1703"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909501",
+                              "name": "Salted Lassi",
+                              "category": "Beverages",
+                              "description": "A creamy and rich lassi made from yogurt- refreshing drink for your thirst.",
+                              "imageId": "7fe7029ff526e28df03c56e04cf0b4d1",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "591 ratings",
+                                  "ratingCountV2": "591"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "21270342",
+                              "name": "Gulab Jamun (1pc)",
+                              "category": "Desserts",
+                              "imageId": "lrfvdlrjde3hkzuzpxlv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "10578 ratings",
+                                  "ratingCountV2": "10578"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Quick Bites",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909492",
+                              "name": "Chole Bhature",
+                              "category": "Quick Bites",
+                              "description": "A spicy and mouth-watering punjabi delicacy deep fried all purpose flour puris served with curried chickpeas",
+                              "imageId": "jm5nzdqczrqwrywz8h7r",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "13167683",
+                                  "groupName": "Addon Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "14516802",
+                                      "name": "Gulab Jamun (1 Pc)",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "25300 ratings",
+                                  "ratingCountV2": "25300"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909493",
+                              "name": "Chole Samosa (2 Pcs)",
+                              "category": "Quick Bites",
+                              "imageId": "fvtoa4dj57hybob7wuvi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "104632166",
+                                  "groupName": "Choice of Beverages",
+                                  "choices": [
+                                    {
+                                      "id": "14516801",
+                                      "name": "Sweet Lassi",
+                                      "price": 7000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                },
+                                {
+                                  "groupId": "13167705",
+                                  "groupName": "Addon Dessert",
+                                  "choices": [
+                                    {
+                                      "id": "14516802",
+                                      "name": "Gulab Jamun (1 Pc)",
+                                      "price": 2500,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "4040 ratings",
+                                  "ratingCountV2": "4040"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909494",
+                              "name": "Chow mein Samosa (1 Pc)",
+                              "category": "Quick Bites",
+                              "imageId": "zqklrhvtdlckowwmrxdm",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "4911 ratings",
+                                  "ratingCountV2": "4911"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909495",
+                              "name": "Aloo Samosa (1 Pc)",
+                              "category": "Quick Bites",
+                              "description": "Small sized samosas with spicy dal filling served with green mint sauce.",
+                              "imageId": "yrodiwczl3siswh1ywkv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "addons": [
+                                {
+                                  "groupId": "104632140",
+                                  "groupName": "Choice of Beverages",
+                                  "choices": [
+                                    {
+                                      "id": "14516801",
+                                      "name": "Sweet Lassi",
+                                      "price": 7000,
+                                      "inStock": 1,
+                                      "isVeg": 1,
+                                      "isEnabled": 1
+                                    }
+                                  ],
+                                  "maxAddons": -1,
+                                  "maxFreeAddons": -1
+                                }
+                              ],
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "4284 ratings",
+                                  "ratingCountV2": "4284"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909500",
+                              "name": "Sweet Lassi",
+                              "category": "Beverages",
+                              "description": "A creamy and wholesome drink straight from the Punjabi kitchen made from yogurt flavored with sugar.",
+                              "imageId": "kvdoqqchdn9fntfu8rux",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "4735 ratings",
+                                  "ratingCountV2": "4735"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "9909501",
+                              "name": "Salted Lassi",
+                              "category": "Beverages",
+                              "description": "A creamy and rich lassi made from yogurt- refreshing drink for your thirst.",
+                              "imageId": "7fe7029ff526e28df03c56e04cf0b4d1",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "591 ratings",
+                                  "ratingCountV2": "591"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Lassi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138336364",
+                              "name": "Mango Lassi",
+                              "category": "Lassi",
+                              "description": "Made  with soft mango slices",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/15/f073068d-6770-44ad-aefd-ca7f7301fc48_3ae0a17a-e569-494c-8c2c-fcdb1f0ea265.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9700,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "15 ratings",
+                                  "ratingCountV2": "15"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138336376",
+                              "name": "Strawberry Lassi",
+                              "category": "Lassi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138336389",
+                              "name": "Mint Lassi",
+                              "category": "Lassi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138336370",
+                              "name": "Pan Lassi",
+                              "category": "Lassi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "21270343",
+                              "name": "Gulab Jamun (2pc)",
+                              "category": "Desserts",
+                              "imageId": "goau6mw5ecbpej7nbsfw",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "1156 ratings",
+                                  "ratingCountV2": "1156"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "21270342",
+                              "name": "Gulab Jamun (1pc)",
+                              "category": "Desserts",
+                              "imageId": "lrfvdlrjde3hkzuzpxlv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "10578 ratings",
+                                  "ratingCountV2": "10578"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Main Course",
+                      "categories": [
+                        {
+                          "title": "Rice",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "9909498",
+                                  "name": "Chole Chawal",
+                                  "category": "Main Course",
+                                  "description": "White channa cooked slowly with desi spices served with rice",
+                                  "imageId": "hfad9l5so8ruojefocfh",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 8900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "addons": [
+                                    {
+                                      "groupId": "13167727",
+                                      "groupName": "Addon Dessert",
+                                      "choices": [
+                                        {
+                                          "id": "14516802",
+                                          "name": "Gulab Jamun (1 Pc)",
+                                          "price": 2500,
+                                          "inStock": 1,
+                                          "isVeg": 1,
+                                          "isEnabled": 1
+                                        }
+                                      ],
+                                      "maxAddons": -1,
+                                      "maxFreeAddons": -1
+                                    }
+                                  ],
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.7",
+                                      "ratingCount": "1703 ratings",
+                                      "ratingCountV2": "1703"
+                                    }
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Swiggy Hall of Fame 2019",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "47349303",
+                              "name": "Chole Kachori ( 2pcs)                  ",
+                              "category": "Swiggy Hall of Fame 2019",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "194 ratings",
+                                  "ratingCountV2": "194"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Shravan Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96800417",
+                              "name": "Sweet Lassi  ",
+                              "category": "Shravan Special",
+                              "description": "A creamy and wholesome drink straight from the Punjabi kitchen made from yogurt flavored with sugar.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "4735 ratings",
+                                  "ratingCountV2": "4735"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Navratri Special",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "68123052",
+                              "name": "Salted Lassi                              ",
+                              "category": "Navratri Special",
+                              "description": "A creamy and rich lassi made from yogurt- refreshing drink for your thirst.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "591 ratings",
+                                  "ratingCountV2": "591"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Rice  Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138336407",
+                              "name": "Rajma Chawal",
+                              "category": "Rice  Combo",
+                              "description": "600 Ml",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/15/2b293bb1-bc6d-4415-9f13-a8dd6c8c5631_22f066f7-c2f5-4ca3-95a4-8f69b680a5f9.jpg",
+                              "isVeg": 1,
+                              "price": 11900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 12 noon, today",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "138336670",
+                              "name": "Kadhi Chawal",
+                              "category": "Rice  Combo",
+                              "description": "Rice and Kadhi 600 Ml                ",
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 12 noon, today",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 13321001001014"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Om di Hatti(Kamla Nagar)",
+                      "area": "Kamla Nagar",
+                      "completeAddress": "14 A  Shakti Nagar Chowk  Main GT Karnal Road  Kamla Nagar  New Delhi"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "24582b3e-73bd-43cb-94e4-5a3d39c66fb1",
+  "sid": "ei906dd6-20ca-40f6-a19e-b89f5be85aa4",
+  "deviceId": "a30ea252-2f48-f361-4872-699f899bce3d",
+  "csrfToken": "eY0LJyFbLjNc-diJfg2EqZN2a1bdPZPmMapEeSMM"
+}
